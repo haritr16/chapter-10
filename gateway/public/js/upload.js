@@ -10,7 +10,7 @@ function uploadFiles(files) {
 }
 
 //
-// Upload a file from the browser to the backend API.
+// Upload a file from the browser to the backend API..
 //
 function uploadFile(file) {
 

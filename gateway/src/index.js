@@ -15,7 +15,7 @@ async function main() {
     const app = express();
 
     app.set("views", path.join(__dirname, "views")); // Set directory that contains templates for views.
-    app.set("view engine", "hbs"); // Use hbs as the view engine for Express.
+    app.set("view engine", "hbs"); // Use hbs as the view engine for Express..
     
     app.use(express.static("public"));
 
